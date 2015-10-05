@@ -89,8 +89,8 @@ Short and sweet, to take advantage of the best of both worlds. Logic Apps have a
 
 ## Wrap up
 
-This should help you figure out how to get this working for your scenario. You can use Logic Apps to string together your various WebJobs or to do some more intense analysis of Tweets; the world is your oyster! While these scenarios work, there is still room to make them better, so feel free to leave us feedback on [Twitter](https://twitter.com/logicappsio). (If you don't like Twitter, just create an issue). We'll be working hard to find ways to make it even easier to integrate these powerful tools together.
+This should help you figure out how to get this working for your scenario. You can use Logic Apps to string together your various WebJobs or to do some more intense analysis of Tweets; the world is your oyster! While these scenarios work, there is still room to make them better, so feel free to leave me and Logic Apps feedback on Twitter - [@crandycodes](https://twitter.com/crandycodes) &  [@LogicAppsIO](https://twitter.com/logicappsio). (If you don't like Twitter, just create an issue). We'll be working hard to find ways to make it even easier to integrate these powerful tools together.
 
 ## License
 
-See [./LICENSE] file
+See [LICENSE](./LICENSE) file
